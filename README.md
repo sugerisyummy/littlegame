@@ -1,1 +1,2 @@
 # littlegame
+裡面有用python做的質數小遊戲和可自訂的按鍵精靈
